@@ -24,7 +24,7 @@ html {
 }
 
 /* Text Styling */
-body, h1, h2, h3, h4, h5, h6, p, span, button {
+body, h1, h2, h3, h4, h5, h6, p, span, button, input {
   color: #89CFF0; /* Baby blue */
   text-shadow: 0 0 4px #FFFFFF; /* 4px white outline */
 }
@@ -302,6 +302,9 @@ main {
   border: 1px solid #ccc;
   border-radius: 8px;
   font-size: 1em;
+  font-family: 'Darumadrop One', Arial, sans-serif;
+  color: #89CFF0;
+  text-shadow: 0 0 4px #FFFFFF;
 }
 
 /* Emoji Grid */
